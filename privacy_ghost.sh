@@ -3,7 +3,7 @@
 # Elcan Karimli - Digital Lawyer Portfolio
 # Network Ghosting & Privacy Automator for Kali Linux
 
-GREEN='\033[0;32m'
+YESIL_RENG='\033[0;32m'
 RED='\033[0;31m'
 NC='\033[0m' 
 
